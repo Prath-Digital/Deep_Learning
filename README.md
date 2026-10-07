@@ -47,6 +47,7 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Notes of 1.8 are completed and available in the [`notes/lec_1.8.png`](./notes/lec_1.8.png).
 - Notes of 1.9 are completed and available in the [`notes/lec_1.9.png`](./notes/lec_1.9.png).
 - Notes of 1.10 are completed and available in the [`notes/lec_1.10.png`](./notes/lec_1.10.png).
+- Notes of 3.1 are completed and available in the [`notes/lec_3.1.png`](./notes/lec_3.1.png).
 
 ## Projects
 
