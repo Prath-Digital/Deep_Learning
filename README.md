@@ -26,7 +26,7 @@ This repository contains the notes done for Deep Learning. The notes are used to
 
 ## Requirements
 
-- Python 3.10(recommended & what I use) or higher
+- Python 3.10 or higher
 - Jupyter Notebook or Jupyter Lab
 - Required libraries (can be installed via pip):
 
@@ -48,6 +48,8 @@ The lecture notes are organized by chapter and lecture. You can find them in the
 - Notes of 1.9 are completed and available in the [`notes/lec_1.9.png`](./notes/lec_1.9.png).
 - Notes of 1.10 are completed and available in the [`notes/lec_1.10.png`](./notes/lec_1.10.png).
 - Notes of 3.1 are completed and available in the [`notes/lec_3.1.png`](./notes/lec_3.1.png).
+- Notes of 3.2 are completed and available in the [`notes/lec_3.2.png`](./notes/lec_3.2.png).
+- Notes of 3.3 are completed and available in the [`notes/lec_3.3.png`](./notes/lec_3.3.png).
 
 ## Projects
 
